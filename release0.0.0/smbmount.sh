@@ -1,0 +1,1 @@
+sudo mount -t cifs -o username=muraak,password=misoka //192.168.1.11/raspi-use-timer /mnt/muraak
