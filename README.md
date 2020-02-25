@@ -1,6 +1,6 @@
 # Enable to use generic timer on AArch64 Linux
 
-This project includes the kernel module `megt2` that enable to
+This project includes the kernel module `megt2` that enables to
 use generic timer in user-land on AArch64 Linux.
 
 Please check `release0.0.1` in detail.
@@ -20,7 +20,7 @@ cd release0.0.1
 sh install-driver.sh
 ```
 
-### Enable/Check/Disable generic timer
+### Enable/Check/Disable generic timer for userland
 
 ```
 # build user commands
